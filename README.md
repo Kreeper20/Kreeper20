@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Kreeper20
+- 👋 Hi, I’m @Kessington
 - 👀 I’m interested in programing litreally
 - 🌱 I’m currently learning html,css,java script
+- 🤪 it will be an amazing journey and il be sure to share some projects here
 
 
 <!---
